@@ -54,6 +54,8 @@
         </tbody>
     </table>
 <?php endif; ?>
-<a href="/" class="btn btn-success">Назад</a>
+<div class="text-center">
+    <a href="/" class="btn btn-success">Назад</a>
+</div>
 </body>
 </html>
