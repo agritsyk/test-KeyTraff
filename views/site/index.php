@@ -13,8 +13,8 @@
         <div class="col-md-5 my-auto" style="text-align: center">
             <h1>Выберите запрос:</h1>
 
-            <a href="query1" class="btn btn-primary">Выборка заказов</a>
-            <a href="query2" class="btn btn-success">Выборка товаров</a>
+            <a href="requestslist" class="btn btn-primary">Выборка заказов</a>
+            <a href="aggregatedoffers" class="btn btn-success">Выборка товаров</a>
         </div>
     </div>
 </div>

@@ -1,7 +1,7 @@
 <?php
 return [
-    'host' => '',
-    'dbname' => '',
-    'user' => '',
-    'password' => ''
+    'host' => 'localhost',
+    'dbname' => 'testworktrafgid',
+    'user' => 'root',
+    'password' => 'root'
 ];
